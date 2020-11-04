@@ -13,3 +13,13 @@ A roadmap to learn php from zero to hero, including libraries, frameworks, tools
 - Libraries
 - Frameworks
 - Others
+
+### Basics
+### Functional
+### OOP
+### Database
+### Package Manager
+### Testing
+### Libraries
+### Frameworks
+### Others
